@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+# styled-system
+/styled-system
+
 # next.js
 /.next/
 /out/
