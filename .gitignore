@@ -9,7 +9,7 @@
 /coverage
 
 # styled-system
-/styled-system
+styled-system/
 
 # next.js
 /.next/
